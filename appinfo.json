@@ -1,7 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "configurable"
     ],
     "companyName": "augeocacher@gmail.com",
     "longName": "PG Schedule",
